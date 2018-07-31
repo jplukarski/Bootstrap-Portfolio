@@ -1,0 +1,67 @@
+.Joe_Plukarski {
+ color:  #0d8d74;
+    
+}
+
+.About_Me {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    background-color: #f8f9fa;
+    color: #0d8d74;
+    display: inline-block;
+    padding: 30px 20px 20px 0px;
+    border-bottom: #cccccc 2px solid;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.main_body {
+
+    background-color: #f8f9fa;
+    border: #0d8d74 1px solid;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+/*The next one styles the profile picture*/
+#profile_pic {
+    float:left;
+    margin-right: 20px;
+}
+
+body {
+    background-image: url("qbkls.png")
+}
+
+.nav_bar {
+    background-color: #f8f9fa;
+    border: #0d8d74 1px solid;
+}
+
+.footer {
+    color: #0d8d74;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.pic_and_text {
+    position: relative;
+    text-align: center;
+    margin: 15px;
+}
+
+.Projects_Titles {
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:  #f8f9fa;
+    background-color: #0d8d74;
+    width: 275px;
+    padding: 20px 0px 0px 0px;
+}
+
+.sub_button {
+    background-color: #0d8d74;
+    margin-bottom: 20px;
+}
