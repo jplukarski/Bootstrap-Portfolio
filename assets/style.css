@@ -15,14 +15,9 @@
     margin-right: 20px;
 }
 
-.main_body {
-
-    background-color: #f8f9fa;
-    border: #0d8d74 1px solid;
-    margin-top: 100px;
-    margin-bottom: 100px;
+#test {
+    color: purple
 }
-
 /*The next one styles the profile picture*/
 #profile_pic {
     float:left;
@@ -66,3 +61,4 @@ body {
     color:#f8f9fa;
     margin-bottom: 20px;
 }
+
